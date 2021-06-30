@@ -60,6 +60,13 @@ Engineering Graduate 2010-14, First Division
 
 <!-- Add your details -->
 
+#### Data Analysis projects projects
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+
+Data analysis and python
+
+[Click here to view codebase](http://www.google.com)
+
 #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
